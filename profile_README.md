@@ -36,6 +36,26 @@ BBA Honours graduate from SRM University (2025), passionate about turning raw da
 
 ---
 
+### 📊 [Sales Performance Analysis](https://github.com/taribchoudhury-netizen/Sales-Performance-Analysis)
+> Excel dashboard analysing ₹289M in Indian retail sales across segments, regions, categories, and shipping modes.
+
+- Found 36.6% of orders have negative profit — major issue with discount strategy
+- South region dominates with 51% of total sales
+- Corporate segment has the best profit margin despite equal order volume
+- **Tools:** Microsoft Excel, Pivot Tables, Slicers
+
+---
+
+### 🛵 [Zomato Delivery Operations Analysis](https://github.com/taribchoudhury-netizen/Zomato-Delivery-Analysis)
+> Excel dashboard analysing 45,584 Zomato deliveries across city types, weather, traffic, and vehicle performance.
+
+- Semi-Urban deliveries take 2x longer than Urban areas
+- Jam traffic adds 10 mins vs Low traffic conditions
+- 60.1% on-time delivery rate with only 8.9% delayed
+- **Tools:** Microsoft Excel, Pivot Tables, Slicers
+
+---
+
 ## 🎓 Education
 
 **BBA Honours** — SRM University, 2025
